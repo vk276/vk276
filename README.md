@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (Core), Maharishi Markandeshwar (Deemed to be University), Mullana — *Class of 2028*
+- 🎓 B.Tech in Computer Science (Core), Maharishi Markandeshwar (Deemed to be University), Mullana — *2028*
 - 💻 Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js)
 - 🔭 Currently building a university capstone project as part of a 2-member team
 - 🌱 Actively strengthening DSA and backend architecture skills
