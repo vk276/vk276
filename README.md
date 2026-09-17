@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hii+%F0%9F%91%8B%2C+I'm+Vivek+Kumar;Full+Stack+Developer+(Java+%7C+MERN+%7C+Spring+Boot);Building+Real-World%2C+Database-Backed+Web+Applications;Turning+Ideas+Into+Working+Products;Open+for+Software+Engineering+Internships+%26+Full-Time+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hii+%F0%9F%91%8B%2C+I'm+Vivek+Kumar;Full+Stack+Developer+(Java+%7C+MERN+%7C+Spring+Boot);Building+Real-World%2C+Database-Backed+Web+Applications;Turning+Ideas+Into+Working+Products;Open+for+Software+Engg.+Internships+%26+Full-Time+Roles" />
 
 </div>
 
