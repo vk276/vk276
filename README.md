@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Vivek%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Vivek%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20Spring%20Boot&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://linkedin.com/in/vivek-kumar-rao">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,8 +11,14 @@
 <a href="https://github.com/vk276">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);B.Tech+CSE+%40+MMDU;Building+Real-World+Web+Applications;Open+to+Internships+%26+Collaborations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(Java+%7C+MERN);B.Tech+CSE+%40+MMDU;Building+Real-World%2C+Database-Backed+Web+Apps;Open+to+Software+Engineering+Internships" />
 
 </div>
 
@@ -20,22 +26,65 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (Core), Maharishi Markandeshwar (Deemed to be University), Mullana — *2028*
-- 💻 Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js)
-- 🔭 Currently building a university capstone project as part of a 2-member team
-- 🌱 Actively strengthening DSA and backend architecture skills
-- 🎯 Looking for **Full Stack Development internship opportunities**
-- ⚡ Fun fact: I enjoy turning ideas into working products end-to-end
+- 🎓 B.Tech in Computer Science & Engineering, Maharishi Markandeshwar (Deemed to be University), Mullana — *Expected 2028* — CGPA: 7.3
+- 💻 Full stack developer experienced in building database-backed web applications with **Java Spring Boot, Python Django, and the MERN stack**
+- ⚡ Comfortable using AI-assisted development tools (Antigravity, GitHub Copilot, Prompt Engineering) to move fast from idea to working product
+- 🌱 Currently strengthening **Data Structures & Algorithms**
+- 🎯 Seeking a **Software Engineering Internship** to contribute to real-world systems and keep growing as an engineer
+- 📄 [View Resume](#) &nbsp;|&nbsp; [Portfolio — coming soon](#) &nbsp;|&nbsp; [LeetCode](#)
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Experience
+
+**Web Development Intern (Virtual)** — SkillCraft Technology &nbsp;|&nbsp; *Jun 2026 – Jul 2026*
+- Delivered 4 mini web projects — a responsive landing page, a To-Do app, a Timer app, and an Online Quiz Game — using HTML, CSS, and JavaScript
+- Earned a Letter of Recommendation for performance and consistency
+
+---
+
+### 🛠️ Featured Projects
+
+**🏙️ Bharat 360 — Pan-India Smart City Guide & Civic Portal**
+GIS-based urban navigation and civic-engagement platform covering all 28 states and 8 union territories — heritage sites, food streets, hospital/ICU locations, an SOS emergency dispatch module (112/102/101/1091), and a grievance redressal system with live token-based status tracking.
+`Java Spring Boot` `Hibernate JPA` `MySQL` `Leaflet / OpenStreetMap`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://pan-india-smartcity-360.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+**📝 CredGen — Automated Marksheet & Credit Generation Platform** *(Team Project)*
+A configurable exam engine supporting MCQ, subjective, quiz, assignment, and practical formats with rule-based credit and score generation. Owned the frontend and AI prompt integration; backend built with Django/Spring Boot + MySQL in an Agile workflow.
+`HTML5` `CSS3` `Bootstrap` `Python (Django)` `Java (Spring Boot)` `MySQL`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+**✨ CreatorOS — AI Content Creator Assistant** *(Self-Initiated, In Progress)*
+An analytics-driven content planning tool with a content calendar, AI caption/hook generation, and a performance-insight engine, powered by Gemini/OpenAI API integration.
+`React` `Tailwind CSS` `Node.js` `Express` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+---
+
+### 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,spring,django,mongodb,mysql,git,github,vscode" />
 
 </div>
+
+---
+
+### 🏆 Certifications & Achievements
+
+- Get Started with Databricks for Generative AI — *Databricks*
+- Introduction to Prompt Engineering with GitHub Copilot — *IBM SkillUp*
+- Build Your First Chatbot (Introduction) — *IBM SkillUp*
+- Introduction to Large Language Models — *IBM*
+- JPMorgan Chase Software Engineering Job Simulation — *Forage*
+- Data Science & Analytics — *HP LIFE / HP Foundation*
+- Letter of Recommendation & Certificate of Completion — *SkillCraft Technology*
 
 ---
 
@@ -54,7 +103,7 @@
 
 <div align="center">
 
-I'm open to internship opportunities, collaborations, and interesting full-stack projects.
+Open to Software Engineering / Full Stack internship opportunities and collaborations.
 Reach out via [LinkedIn](https://linkedin.com/in/vivek-kumar-rao) or [Email](mailto:vr5655881@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
