@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(Java+%7C+MERN);B.Tech+CSE+%40+MMDU;Building+Real-World%2C+Database-Backed+Web+Apps;Open+to+Software+Engineering+Full+Time+Roles+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hii+%F0%9F%91%8B%2C+I'm+Vivek+Kumar;Full+Stack+Developer+(Java+%7C+MERN+%7C+Spring+Boot);Building+Real-World%2C+Database-Backed+Web+Applications;Turning+Ideas+Into+Working+Products;Open+for+Software+Engineering+Internships+%26+Full-Time+Roles" />
 
 </div>
 
@@ -31,7 +31,7 @@
 - ⚡ Comfortable using AI-assisted development tools (Antigravity, GitHub Copilot, Prompt Engineering) to move fast from idea to working product
 - 🌱 Currently strengthening **Data Structures & Algorithms**
 - 🎯 Seeking a **Software Engineering Internship** to contribute to real-world systems and keep growing as an engineer
-- 📄 [View Resume](#) &nbsp;|&nbsp; [Portfolio — coming soon](#) &nbsp;|&nbsp; [LeetCode](#)
+- 📄 [View Resume](./Vivek_Kumar_Resume.pdf) &nbsp;|&nbsp; [Portfolio — coming soon](#) &nbsp;|&nbsp; [LeetCode](#)
 
 ---
 
@@ -54,6 +54,8 @@ GIS-based urban navigation and civic-engagement platform covering all 28 states 
 **📝 CredGen — Automated Marksheet & Credit Generation Platform** *(Team Project)*
 A configurable exam engine supporting MCQ, subjective, quiz, assignment, and practical formats with rule-based credit and score generation. Owned the frontend and AI prompt integration; backend built with Django/Spring Boot + MySQL in an Agile workflow.
 `HTML5` `CSS3` `Bootstrap` `Python (Django)` `Java (Spring Boot)` `MySQL`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://credgen-automated-credit-genration-safe-examinat-production.up.railway.app/)
 
 **✨ CreatorOS — AI Content Creator Assistant** *(Self-Initiated, In Progress)*
 An analytics-driven content planning tool with a content calendar, AI caption/hook generation, and a performance-insight engine, powered by Gemini/OpenAI API integration.
@@ -80,8 +82,6 @@ An analytics-driven content planning tool with a content calendar, AI caption/ho
 - JPMorgan Chase Software Engineering Job Simulation — *Forage*
 - Data Science & Analytics — *HP LIFE / HP Foundation*
 - Letter of Recommendation & Certificate of Completion — *SkillCraft Technology*
-- AWS for Beginners - *Microsoft*
-- Android dev. Intern - *Codsoft*
 
 ---
 
