@@ -6,13 +6,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vr5655881@gmail.com">
-  <img src="https://img.shields.io/badge/vr5655881%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="tel:+917281041275">
-  <img src="https://img.shields.io/badge/%2B91%207281041275-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://github.com/vk276">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://wa.me/917281041275">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -83,6 +80,8 @@ An analytics-driven content planning tool with a content calendar, AI caption/ho
 - JPMorgan Chase Software Engineering Job Simulation — *Forage*
 - Data Science & Analytics — *HP LIFE / HP Foundation*
 - Letter of Recommendation & Certificate of Completion — *SkillCraft Technology*
+- AWS for Beginners - *Microsoft*
+- Android dev. Intern - *Codsoft*
 
 ---
 
